@@ -1,5 +1,5 @@
-# flask-blog-website
 
+```bash
 $ # Clone the sources
 $ git clone https://github.com/Im-sanjay/flask-blog-website.git
 $ cd flask-blog-website
@@ -7,7 +7,7 @@ $
 $ # Virtualenv modules installation (Unix based systems)
 $ virtualenv --no-site-packages env
 $ source env/bin/activate
-
+$
 $ # Virtualenv modules installation (Windows based systems)
 $ # virtualenv --no-site-packages env
 $ # .\env\Scripts\activate
